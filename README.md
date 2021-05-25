@@ -3,6 +3,8 @@
 </p>
 
 > 자격증 정보를 캘린더 형식으로 한 눈에 볼 수 있는 서비스. 일정 조회부터 관리까지!
+>
+> [소개 영상 유투브](https://youtu.be/xpVQFsXFtQs)
 
 `개발환경: React.js, JavaSpring JPA, MySQL`
 <br />
