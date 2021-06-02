@@ -178,4 +178,4 @@ $ yarn start
 
 ---
 ## 배포주소
-> 자격증닷컴.site
+> [자격증닷컴.site](http://xn--i89ap3j6otb3blzk.site/)
